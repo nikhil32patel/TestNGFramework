@@ -1,0 +1,44 @@
+00:10:58.725 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Project_From_Git\TestNGFramework\master.xml
+
+00:11:00.467 {main} INFO  testCases.TC001_AccountRegistrationTest -CHROME driver initilized
+00:11:01.278 {main} INFO  testCases.TC001_AccountRegistrationTest -***** STARTING TC001_AccountRegistrationTest *****
+00:11:02.094 {main} INFO  testCases.TC001_AccountRegistrationTest -Clicked on MyAccount Link
+00:11:02.097 {main} INFO  testCases.TC001_AccountRegistrationTest -Providing customer details
+00:11:03.484 {main} INFO  testCases.TC001_AccountRegistrationTest -Validatin expected message...
+00:11:03.526 {main} INFO  testCases.TC001_AccountRegistrationTest -***** FINISHED TC001_AccountRegistrationTest *****
+00:12:15.706 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Project_From_Git\TestNGFramework\master.xml
+
+00:12:16.987 {main} INFO  testCases.TC001_AccountRegistrationTest -CHROME driver initilized
+00:12:19.091 {main} INFO  testCases.TC001_AccountRegistrationTest -***** STARTING TC001_AccountRegistrationTest *****
+00:12:19.874 {main} INFO  testCases.TC001_AccountRegistrationTest -Clicked on MyAccount Link
+00:12:19.878 {main} INFO  testCases.TC001_AccountRegistrationTest -Providing customer details
+00:12:20.438 {main} INFO  testCases.TC001_AccountRegistrationTest -Validatin expected message...
+00:12:21.114 {main} INFO  testCases.TC001_AccountRegistrationTest -***** FINISHED TC001_AccountRegistrationTest *****
+00:55:14.167 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Project_From_Git\TestNGFramework\master.xml
+
+00:55:15.487 {main} INFO  testCases.TC002_LoginTest -CHROME driver initilized
+00:55:16.364 {main} INFO  testCases.TC002_LoginTest -***** STARTING TC_002_LoginTest *****
+00:55:26.828 {main} ERROR testCases.TC002_LoginTest -TC_002_LoginTest
+00:57:14.070 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Project_From_Git\TestNGFramework\master.xml
+
+00:57:15.488 {main} INFO  testCases.TC002_LoginTest -CHROME driver initilized
+00:57:57.752 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Project_From_Git\TestNGFramework\master.xml
+
+00:57:59.149 {main} INFO  testCases.TC002_LoginTest -CHROME driver initilized
+00:58:01.416 {main} INFO  testCases.TC002_LoginTest -***** STARTING TC_002_LoginTest *****
+00:58:56.480 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Project_From_Git\TestNGFramework\master.xml
+
+00:58:57.801 {main} INFO  testCases.TC002_LoginTest -CHROME driver initilized
+00:58:58.580 {main} INFO  testCases.TC002_LoginTest -***** STARTING TC_002_LoginTest *****
+01:03:10.446 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Project_From_Git\TestNGFramework\master.xml
+
+01:03:11.760 {main} INFO  testCases.TC002_LoginTest -CHROME driver initilized
+01:03:12.646 {main} INFO  testCases.TC002_LoginTest -***** STARTING TC_002_LoginTest *****
+01:03:14.370 {main} INFO  testCases.TC002_LoginTest -***** FINISHED TC_002_LoginTest *****

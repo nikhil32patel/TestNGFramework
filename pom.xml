@@ -1,0 +1,114 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>NB.automation</groupId>
+  <artifactId>TestNGFramework</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
+
+  <name>TestNGFramework</name>
+  <url>http://maven.apache.org</url>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
+  <dependencies>
+		<!--
+		https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+		<dependency>
+			<groupId>org.seleniumhq.selenium</groupId>
+			<artifactId>selenium-java</artifactId>
+			<version>4.33.0</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.apache.poi/poi 
+	 	 Use of this dependency is Apache POI - Java API To Access Microsoft Format
+		Files -->
+		<dependency>
+			<groupId>org.apache.poi</groupId>
+			<artifactId>poi</artifactId>
+			<version>5.3.0</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml
+		USE:Apache POI - Java API To Access Microsoft Format Files -->
+		<dependency>
+			<groupId>org.apache.poi</groupId>
+			<artifactId>poi-ooxml</artifactId>
+			<version>5.4.1</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/commons-io/commons-io USE:The
+		Apache Commons IO library contains utility classes, stream
+		implementations, file filters, file comparators, endian transformation
+		classes, and much more. -->
+		<dependency>
+			<groupId>commons-io</groupId>
+			<artifactId>commons-io</artifactId>
+			<version>2.19.0</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3
+		USE:Apache Commons Lang, a package of Java utility classes for the
+		classes that are in java.lang's hierarchy, or are considered to be so
+		standard as to justify existence in java.lang. The code is tested using
+		the latest revision of the JDK for supported LTS releases: 8, 11, 17 and
+		21 currently. See
+		https://github.com/apache/commons-lang/blob/master/.github/workflows/maven.yml
+		Please ensure your build environment is up-to-date and kindly report any
+		build issues.-->
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+			<version>3.17.0</version>
+		</dependency>
+		<!--
+		https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core
+		USE:Implementation for Apache Log4J, a highly configurable logging tool
+		that focuses on performance and low garbage generation. It has a plugin
+		architecture that makes it extensible and supports asynchronous logging
+		based on LMAX Disruptor.-->
+		<dependency>
+			<groupId>org.apache.logging.log4j</groupId>
+			<artifactId>log4j-core</artifactId>
+			<version>2.25.0</version>
+		</dependency>
+		<!--
+		https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-api
+		USE:API for Apache Log4J, a highly configurable logging tool that
+		focuses on performance and low garbage generation. It has a plugin
+		architecture that makes it extensible and supports asynchronous logging
+		based on LMAX Disruptor.-->
+		<dependency>
+			<groupId>org.apache.logging.log4j</groupId>
+			<artifactId>log4j-api</artifactId>
+			<version>2.25.0</version>
+		</dependency>
+		<!--
+		https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-slf4j-impl
+		USE:The Apache Log4j SLF4J API binding to Log4j 2 Core-->
+		<dependency>
+			<groupId>org.apache.logging.log4j</groupId>
+			<artifactId>log4j-slf4j-impl</artifactId>
+			<version>2.25.0</version>
+			<scope>compile</scope>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.aventstack/extentreports
+		USE:ExtentReports library -->
+		<dependency>
+			<groupId>com.aventstack</groupId>
+			<artifactId>extentreports</artifactId>
+			<version>5.1.2</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.testng/testng USE:TestNG is
+		a testing framework inspired from JUnit and NUnit but introducing some
+		new functionalities that make it more powerful and easier to use. It
+		supports test configured by annotations, data-driven testing, parametric
+		tests, etc.
+-->
+		<dependency>
+			<groupId>org.testng</groupId>
+			<artifactId>testng</artifactId>
+			<version>7.11.0</version>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
+</project>
