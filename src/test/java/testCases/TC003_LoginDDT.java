@@ -23,7 +23,7 @@ public class TC003_LoginDDT extends BaseClass {
 	 * PROVIDE IT IS IN DIFFRENT CLASS THEN dataProviderClass NAME NEED TO PROVIDE
 	 * 
 	 */
-	@Test(dataProvider = "LoginData", dataProviderClass = DataProviders.class)
+	@Test(dataProvider = "LoginData", dataProviderClass = DataProviders.class,groups="Datadriven")
 	public void veriyf_loginDDT(String email, String pwd, String exp) {
 
 		logger.info("***** STARTING TC003_LoginDDT *****");

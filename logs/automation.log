@@ -1,187 +1,24 @@
-01:27:42.751 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
+00:04:50.992 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Project_From_Git\TestNGFramework\grouping.xml
 
-01:27:44.523 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-01:30:52.471 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
+00:04:52.708 {main} INFO  testCases.TC002_LoginTest -CHROME driver initilized
+00:04:53.503 {main} INFO  testCases.TC002_LoginTest -***** STARTING TC_002_LoginTest *****
+00:04:55.292 {main} INFO  testCases.TC002_LoginTest -***** FINISHED TC_002_LoginTest *****
+00:05:39.775 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Project_From_Git\TestNGFramework\grouping.xml
 
-01:30:53.742 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-01:31:42.813 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
+00:05:41.048 {main} INFO  testCases.TC001_AccountRegistrationTest -CHROME driver initilized
+00:05:42.911 {main} INFO  testCases.TC001_AccountRegistrationTest -***** STARTING TC001_AccountRegistrationTest *****
+00:05:43.679 {main} INFO  testCases.TC001_AccountRegistrationTest -Clicked on MyAccount Link
+00:05:43.684 {main} INFO  testCases.TC001_AccountRegistrationTest -Providing customer details
+00:05:44.905 {main} INFO  testCases.TC001_AccountRegistrationTest -Validatin expected message...
+00:05:44.948 {main} INFO  testCases.TC001_AccountRegistrationTest -***** FINISHED TC001_AccountRegistrationTest *****
+00:05:45.861 {main} INFO  testCases.TC002_LoginTest -CHROME driver initilized
+00:05:46.622 {main} INFO  testCases.TC002_LoginTest -***** STARTING TC_002_LoginTest *****
+00:05:48.391 {main} INFO  testCases.TC002_LoginTest -***** FINISHED TC_002_LoginTest *****
+00:07:37.988 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
+  E:\Project_From_Git\TestNGFramework\grouping.xml
 
-01:31:44.058 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-01:32:10.072 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-01:32:11.344 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-01:32:31.594 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-01:32:32.938 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-01:33:17.221 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-01:33:18.543 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-01:38:09.320 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-01:38:10.633 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-01:43:25.116 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-01:43:26.419 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-01:46:57.888 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-01:46:59.262 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-15:47:12.006 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-15:47:14.822 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-15:50:02.699 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-15:50:04.139 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-15:51:13.320 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-15:51:14.611 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-15:52:47.683 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-15:52:49.102 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-16:06:03.942 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-16:06:05.455 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-16:07:16.310 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-16:07:17.651 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-16:08:14.833 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-16:08:16.173 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-16:13:52.130 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-16:13:54.408 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-17:29:52.659 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-17:29:54.621 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-17:30:20.053 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-17:30:21.522 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-17:36:08.398 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-17:36:09.747 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-22:59:47.681 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-22:59:49.518 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-23:03:20.154 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-23:03:21.452 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-23:03:23.122 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:03:24.840 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
-23:03:24.850 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:06:30.581 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-23:06:31.902 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-23:06:34.777 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:06:51.836 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
-23:07:09.153 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:09:41.678 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-23:09:42.948 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-23:09:45.626 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:09:47.288 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
-23:09:47.297 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:10:42.511 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-23:10:43.792 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-23:13:48.224 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-23:13:49.601 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-23:26:27.536 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-23:26:28.874 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-23:26:30.581 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:26:32.321 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
-23:26:32.329 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:28:09.455 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-23:28:10.812 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-23:28:29.083 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:28:30.915 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
-23:28:30.924 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:29:06.292 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-23:29:07.661 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-23:29:10.489 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:29:50.472 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
-23:29:50.478 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:32:22.329 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-23:32:23.591 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-23:32:25.430 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:32:25.858 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:33:12.315 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-23:33:13.573 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-23:33:16.072 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:33:16.717 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:33:30.821 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-23:33:32.106 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-23:33:35.636 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:34:33.546 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-23:34:34.836 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-23:34:37.367 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:34:39.186 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
-23:34:39.193 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:34:50.363 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
-23:42:09.823 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-23:42:11.098 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-23:42:13.067 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:42:14.786 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
-23:42:14.791 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:42:25.429 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
-23:42:25.445 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:42:36.120 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
-23:42:36.136 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:42:46.783 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
-23:42:46.799 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:42:48.746 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
-23:49:11.713 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
-  E:\Project_From_Git\TestNGFramework\master.xml
-
-23:49:12.978 {main} INFO  testCases.TC003_LoginDDT -CHROME driver initilized
-23:49:15.892 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:49:17.688 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
-23:49:17.697 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:49:28.800 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
-23:49:28.800 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:49:39.989 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
-23:49:40.005 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:49:50.682 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
-23:49:50.697 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
-23:49:52.354 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
+00:07:39.340 {main} INFO  testCases.TC002_LoginTest -CHROME driver initilized
+00:07:40.240 {main} INFO  testCases.TC002_LoginTest -***** STARTING TC_002_LoginTest *****
+00:07:41.945 {main} INFO  testCases.TC002_LoginTest -***** FINISHED TC_002_LoginTest *****
