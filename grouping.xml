@@ -7,6 +7,7 @@
 			<!--<include name="Master"></include>-->
 			<!--<include name="Regression"></include>-->
 			<include name="Sanity"></include>
+			<include name="Sanity"></include>
 			<!--<exclude name=""></exclude>	-->
 		</run>
 	</groups>	

@@ -7,6 +7,7 @@ import org.testng.Assert;
 import pageObjects.HomePage;
 import pageObjects.LoginPage;
 import pageObjects.MyAccountPage;
+import testBase.BaseClass;
 import utilities.DataProviders;
 
 /* Data is valid --> login success --> test pass and--logout

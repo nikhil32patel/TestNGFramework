@@ -4,6 +4,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
+import testBase.BaseClass;
 
 public class TC001_AccountRegistrationTest extends BaseClass {
 
@@ -17,18 +18,19 @@ public class TC001_AccountRegistrationTest extends BaseClass {
 			HomePage hp = new HomePage(driver);
 			hp.clickMyAccount();
 			hp.clickRegister();
+			
 			logger.info("Clicked on MyAccount Link");
 
 			AccountRegistrationPage regPage = new AccountRegistrationPage(driver);
 
 			logger.info("Providing customer details");
 			// regPage.setUserName("Jhon old xyz");
-			regPage.setFirtName(randomString());
-			regPage.setLastName(randomString());
-			regPage.setEmail(randomString() + "@mail.com");
+			regPage.setFirtName(randomeString());
+			regPage.setLastName(randomeString());
+			regPage.setEmail(randomeString() + "@mail.com");
 			regPage.setTelephone("4578415263");
 
-			String pwd = randomString();
+			String pwd = randomeString();
 			regPage.setPassword(pwd);
 			regPage.setConfirmPassword(pwd);
 			regPage.setPrivacyPolidy();
