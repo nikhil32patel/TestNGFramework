@@ -52,3 +52,60 @@
 12:21:13.942 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
 12:21:13.951 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
 12:21:16.230 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
+17:46:16.220 {main} INFO  testCases.TC001_AccountRegistrationTest -***** STARTING TC001_AccountRegistrationTest *****
+17:46:16.965 {main} INFO  testCases.TC001_AccountRegistrationTest -Clicked on MyAccount Link
+17:46:16.968 {main} INFO  testCases.TC001_AccountRegistrationTest -Providing customer details
+17:46:17.904 {main} INFO  testCases.TC001_AccountRegistrationTest -Validatin expected message...
+17:46:18.895 {main} INFO  testCases.TC001_AccountRegistrationTest -***** FINISHED TC001_AccountRegistrationTest *****
+17:46:23.739 {main} INFO  testCases.TC002_LoginTest -***** STARTING TC_002_LoginTest *****
+17:46:25.504 {main} INFO  testCases.TC002_LoginTest -***** FINISHED TC_002_LoginTest *****
+17:46:31.905 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
+17:46:33.850 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
+17:46:33.853 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
+17:46:44.774 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
+17:46:44.780 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
+17:46:55.697 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
+17:46:55.700 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
+17:47:06.670 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
+17:47:06.679 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
+17:47:08.816 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
+23:15:13.005 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
+  Z:\Study\SeleniumProjects\TestNGFramework\final.xml
+
+23:15:17.617 {main} INFO  testCases.TC001_AccountRegistrationTest -***** STARTING TC001_AccountRegistrationTest *****
+23:15:18.527 {main} INFO  testCases.TC001_AccountRegistrationTest -Clicked on MyAccount Link
+23:15:18.535 {main} INFO  testCases.TC001_AccountRegistrationTest -Providing customer details
+23:15:21.108 {main} INFO  testCases.TC001_AccountRegistrationTest -Validatin expected message...
+23:15:21.167 {main} INFO  testCases.TC001_AccountRegistrationTest -***** FINISHED TC001_AccountRegistrationTest *****
+23:15:25.319 {main} INFO  testCases.TC002_LoginTest -***** STARTING TC_002_LoginTest *****
+23:15:27.287 {main} INFO  testCases.TC002_LoginTest -***** FINISHED TC_002_LoginTest *****
+23:15:33.087 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
+23:15:35.588 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
+23:15:35.607 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
+23:15:47.373 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
+23:15:47.384 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
+23:15:58.941 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
+23:15:58.949 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
+23:16:10.521 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
+23:16:10.542 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
+23:16:12.541 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
+23:19:20.651 {main} INFO  org.testng.internal.Utils -[TestNG] Running:
+  Z:\Study\SeleniumProjects\TestNGFramework\final.xml
+
+23:21:56.805 {main} INFO  testCases.TC001_AccountRegistrationTest -***** STARTING TC001_AccountRegistrationTest *****
+23:22:51.021 {main} INFO  testCases.TC001_AccountRegistrationTest -Clicked on MyAccount Link
+23:23:05.466 {main} INFO  testCases.TC001_AccountRegistrationTest -Providing customer details
+23:23:07.424 {main} INFO  testCases.TC001_AccountRegistrationTest -Validatin expected message...
+23:23:07.479 {main} INFO  testCases.TC001_AccountRegistrationTest -***** FINISHED TC001_AccountRegistrationTest *****
+23:24:32.425 {main} INFO  testCases.TC002_LoginTest -***** STARTING TC_002_LoginTest *****
+23:25:22.520 {main} INFO  testCases.TC002_LoginTest -***** FINISHED TC_002_LoginTest *****
+23:26:14.896 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
+23:26:25.539 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
+23:26:25.546 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
+23:26:44.131 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
+23:26:44.135 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
+23:27:05.833 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
+23:27:05.840 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
+23:27:20.460 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****
+23:27:20.474 {main} INFO  testCases.TC003_LoginDDT -***** STARTING TC003_LoginDDT *****
+23:27:24.511 {main} INFO  testCases.TC003_LoginDDT -***** FINISHED TC003_LoginDDT *****

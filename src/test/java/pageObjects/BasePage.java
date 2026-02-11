@@ -9,5 +9,6 @@ public class BasePage {
 	public BasePage(WebDriver driver) {
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
+		System.out.println("Driver Object has code is :"+driver.hashCode());
 	}
 }

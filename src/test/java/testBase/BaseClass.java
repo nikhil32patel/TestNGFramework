@@ -28,6 +28,9 @@ import org.apache.logging.log4j.Logger; //log4j
 
 public class BaseClass {
 
+	/*
+	 *  WEB HOOK ADDED TO RUN JENKINS BUILD TO RUN AUTOMATICALLY
+	 */
 	static public WebDriver driver;
 	public Logger logger;
 	public Properties p;
