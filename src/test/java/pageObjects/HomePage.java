@@ -8,7 +8,7 @@ public class HomePage extends BasePage {
 	//WebDriver driver;
 
 	public HomePage(WebDriver driver) {
-		super(driver);
+		super(driver);// CALLING BASE CLASS CONSTRUCTOR USING SUPER
 	}
 
 	@FindBy(xpath = "//span[normalize-space()='My Account']")
